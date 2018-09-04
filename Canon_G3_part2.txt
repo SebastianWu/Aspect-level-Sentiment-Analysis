@@ -1,0 +1,61 @@
+[t]great camera 
+##i purchased the nikon 4300 after several weeks of searching . 
+##the value , name , and resolution signed the lease . 
+picture[+3]##after nearly 800 pictures i have found that this nikon takes incredible picture. 
+digital-zoom[+2],pictures[+2],optical-zoom[+2]##the digital-zoom takes as good of pictures , as the optical-zoom does ! 
+camera[+2]##the inside pics , can be a bit challenging , but when you can instantly delete pics you dont like , that are not focused perfectly , or need lighting adjustments , make this camera very simple and effective . 
+##i love all of the features , and presets as well . 
+sunset-feature[+3],pics[+3]##sunset-feature takes incredible pics in the morning , and the evening ! 
+software[+3]##the software you get with this camera is perfect . 
+touchup[+2],redeye[+2]##touchup , redeye , and so on are very easy to alter , and correct . 
+memory-card[+2]##I definately recommend a large memory-card . 
+resolution[+2],card[+1]##I use a 128mb card , and usually get around 70 to 100 pics with good resolution . 
+pics[+1]##very large pics take 8mb each ! 
+battery-life[+2]##battery-life is good , although i recommend two rechargebles , or a alkaline backup , for those emergency pics you have to have . 
+camera[+2]##all and all , i am extremely pleased with this camera . 
+##making the step from film to digital has been a great move . 
+##i find myself emailing pics to everyone i know . 
+camera[+3]##great camera , great investment ! 
+[t]excellent camera 
+##this is my second digital camera , though i also use one at work and have some experience with several nikon and canon models . 
+use[+1],quality[+2],size[+1]##the nikon coolpix 4300 is wonderful -- easy to use, high quality, and compact in size . 
+##with an extra battery and a couple of good sized memory cards you are all set for a day of picture taking while on vacation . 
+auto-setting[+2]##the auto-setting does a great job most of the time but there are manual settings for those who want them . 
+##if something were to happen to my nikon coolpix 4300 , i would order another just like it . 
+[t]the ricksters review 
+##after much research i decided on the nikon coolpix 4300 . 
+features[+2]##it has many great features and very few bad ones . 
+picture[+2],use[+2]##it takes excellent picture and is very easy to use , if you read the manual . 
+pics[+2],camera[+1]##if you cant get great pics from this camera its because you havent read the manual . 
+LCD[-1]##the only things i have found that i do not like is that the LCD is hard to read in daylight but everyone else's is too . 
+download[+2]##download are a snap and quick . 
+control[+2]##control is easy to use and easy to get to . 
+##i 'm extremely glad i bought this camera . 
+[t]great camera 
+camera[+2]##great camera . 
+camera[+2]##I am impressed with how easy this camera is to use . 
+picture[+2]##it takes great picture. 
+manual[+2]##the manual is easy to understand , and it is mostly idiot proof . 
+size[+2]##The size is small , unlike my canon slr , so it easily fits in my pocket . 
+##i have not yet figured out how to make it snap quick pictures for action shots . 
+##now where did i put that manual ? 
+[t]perfect consumer digital camera 
+camera[+2]##if you do any research into digital cameras , you 'll quickly find that this camera is just about the best value out there . 
+##these are the reasons i think it 's great : 
+##it has all the features an amatuer photo-enthusiast would want . 
+##it is easy enough for my grandmother to use . 
+size[+2],control[+2],use[+2]##The size is very compact but the control is so well designed that they 're still easy to use . 
+##it has optional lenses like wide angles and extra zooms . 
+cards[+1]##for " digital film " it uses compact flash cards , which are easy to find , cheap , reliable and supported by many other devices you may have at hoome . 
+support[+1]##the nikon coolpix line is a well-established line so you know support and parts are going to be available even when nikon releases a newer model . 
+picture-quality[+2]##picture-quality is excellent . 
+battery-life[+2]##battery-life is excellent . 
+zoom[+2]##3x built-in optical zoom is a lot for this price range . 
+price[+2]##great price for all the features . 
+##here 's what you may miss or be annoyed by with this camera : 
+firewire[-1]##no direct firewire to the camera . 
+##there is usb , though . 
+viewfinder[-1]##the camera is so small that when you attach some lenses i have the 19mm wide-angle -- wc-e 68 , the optical viewfinder is partially obscured . 
+##this does n't affect the picture , of course . 
+##you just have to use the lcd viewfinder to see the whole picture . 
+##it 's no problem for me personally . 

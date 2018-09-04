@@ -1,0 +1,47 @@
+[t]great digital camera 
+##the objections of the naysayers almost caused me to purchase a different camera , but , in the end , i figured i 'd give the g3 a try . 
+##i 'm very glad i did . 
+service[+3]##the service from the supplier was exceptional . 
+condition[+2]##the camera arrived on time and in perfect condition . 
+photo[+3]##having used it for more than a month , i can say that it consistently produces topnotch photo . 
+##recently , i attended a " flyball " competition 
+##-- an event that involves dogs running and jumping hurdles . 
+photos[+3]##by cocking the shutter to the halfway position and getting the settings ready to shoot , i was able to produce excellent stopaction photos -- contrary to what other reviewers experienced . 
+priority[+2],modes[+2]##the camera is a dream to operate in automode , but also gives tremendous flexibility in aperture priority , shutter priority , and manual modes . 
+##about the only legitimate criticsm from the online reviews is that fact that the lens really does obstruct the viewfinder . 
+##this effect is increased when one buys and uses a telephoto doubler . 
+##but who cares ? 
+##i always shoot using the lcd panel . 
+camera[+3]##i can 't write enough positive things about this great little camera !
+[t]within its limitations 
+##i am a long-time user of highly responsive film slrs and professional quality external flash equipment , just so you know my bias . 
+##i have been watching the development of digicams for years , waiting to make my first move . 
+##what i really want is a $ 1,500 digital slr with a full frame sensor that will take my nikon lenses . 
+##i figure that is at least three years off , and i am getting impatient . 
+##hence i decided to spring for a point-and-shoot digicam that that would have features that would let me get around their inherent limitations . 
+g3[+1],quality[+2],images[+2]##i chose the g3 because of its reputation for very high quality , clean images . 
+##once i get focus lock , i can then wait until my restless subject ( a pet or a child ) strikes an amusing pose and then fire the shutter with some reasonable probability of getting my subject still in focus . 
+##now what about the flash problem ? 
+shoe[+1],g3[+2]##fortunately , the g3 has a hot shoe that can take an external flashes , and fortunately for me , i already owned a one of the highest quality external flashes that money can buy : the metz 60 ct-4 . 
+software[-2]##now there is one more complaint i have about the g3 and that is the software that comes with it for processing raw images ( i only shoot in raw image mode and the first thing i did was replace the 32 mbyte cf with a 512 mbyte cf , which gives me 130 raw images , as opposed to 7 ! 
+software[-2]##the canon software for raw images does not present you with raw images at all , but the raw images after it has been processed by all the image-affecting settings in the camera . 
+##i believe this is enabled by a second file that comes out of the camera that stores all this information . 
+##maybe if you delete those files before you looked at them with the software , youd see the true , raw image that the camera actually produces . 
+##i didnt wait to experiment . 
+##instead , i bought the adobe photoshop camera raw plug-in . 
+g3[+3]##what this plug-in reveals is the truly stunning quality of the raw g3 hardware . 
+##what the photoshop plug-in gives you is reality , and then if you want fantasy , you can use photoshop to create it . 
+images[+3]##but at least youre starting with the most photorealistic images ive ever seen from a camera . 
+images[+3],quality[+2]##i am stunned and amazed at the quality of the raw images i am getting from this g3 ( in conjunction with my professional flash system ) , and can easily put up with the cameras limitations , because ive never seen anything better within its resolution limits . 
+[t]knock your socks off great 
+##i 've had this for 3 months now , and i am pleased with my decision . 
+camera[+3],point[+2]##this is the perfect camera for a photo hobbiest who wants to have easy point and shoot ability as well . 
+##my girlfriend loved using this camera so much as a point and shoot that i had to pry it out of her hands most of the time . 
+##battery life , the drawback to most digital cameras , to quote k. reeves . 
+##whoa . 
+functionality[+2],quality[+3]##manual functionality is excellent , downloading pictures is quick and a breeze , and the quality is astounding . 
+##i did a good month 's worth of research before buying this over other similar priced digital cameras , and this is the best buy for the buck . 
+##if you do n't believe me on that , check the consumer reports review as well as the many digital camera review sites out there . 
+##or save time and just do it , you wo n't regret it . 
+[t]awesome pro-sumer camera 
+photos[+3],software[+2],screen[+2],detail[+1]##4mp , 4x optical zoom , takes absolutely beautiful photos with detail that challenges all of the above 5mp cameras , easy to understand and use ( has a great swivel lcd screen ) , a lot of features and add-on options , comes with great software ( not to be overlooked ) , and last but by far not least , received my fiance 's stamp of approval ( two thumbs up ! ) 

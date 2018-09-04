@@ -23,7 +23,7 @@ Input review file format is in our report (at IV experiment)
 
   
 ## How to run the algorithm:  
-1. $python3 fine_grained_sentiment_analysis.py <opinion seed file name> <input reviews file name> <output pickle file name>  
+$python3 fine_grained_sentiment_analysis.py <opinion seed file name> <input reviews file name> <output pickle file name>  
 for example: $python3 fine_grained_sentiment_analysis.py Opinion_Seed.txt Canon_G3_part1.txt product_reviews_list_1.data  
 
 ## How to run the score code:  
